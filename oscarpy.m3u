@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZoyTVTurcas.bo" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Entertainment",Zoy TV Turcas
+https://fl1004.bozztv.com/ssh101/zoytvturcas/index.m3u8
+#EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="Undefined",ZTV (720p) [Not 24/7]
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+#EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="General",Zurquí TV (720p)
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
